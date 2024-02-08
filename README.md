@@ -12,9 +12,11 @@ Welcome to the official repository for the Nyan Dogi Collection. This repository
 
 twitter : https://twitter.com/NyanDogi
 
+🔥
 
 https://drc-20.org/marketplace/doginals/nyan_dogi
 
+🔥
 
 https://doge.ordinalswallet.com/collection/nyandogi
 
